@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7ACBE&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Hyunsun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=4D6EF7&width=435&lines=Welcome+%3A))](https://git.io/typing-svg)
 #
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=jungjaeseung&theme=dracula&show_icons=true" width="55%" />
