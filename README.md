@@ -7,5 +7,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungjaeseung&layout=compact&theme=dracula" width="42%" />
 <br/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jungjaeseung&t&bg_color=292A36&color=F6F6F1&line=FB6D94&point=F6F6F1&title_color=F6F6F1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jungjaeseung&t&bg_color=292A36&color=4D6EF7&line=4D6EF7&point=4D6EF7&title_color=4D6EF7" />
 </div>
